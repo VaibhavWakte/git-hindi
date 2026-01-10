@@ -1,3 +1,4 @@
- learn from me 
+ learn for me 
  #install
- this is sosme installnation instraction
+ This is for my Practice only .
+ 
